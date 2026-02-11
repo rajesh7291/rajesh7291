@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Rajesh Gorpalle</h1>
+<p align="center">
+  🚀 Backend Developer | Node.js | Express.js | MySQL | REST APIs
+</p>
 
-<!--
-**rajesh7291/rajesh7291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:rgorpalle003@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/rajeshgorpalle/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Professional Summary
+Passionate Backend Developer with hands-on experience in building secure, scalable and production-ready APIs.  
+Worked on authentication systems, subscription workflows, and payment integrations.  
+Strong believer in clean architecture, optimized queries, and maintainable code.
+
+---
+
+## 🧰 Tech Expertise
+**Backend:** Node.js, Express.js  
+**Database:** MySQL  
+**API:** REST, JWT Authentication  
+**Tools:** Git, GitHub, Postman  
+**Other:** Error Handling, Validation, Middleware
+
+---
+
+## 🚀 Key Projects
+
+### 🔐 Authentication & Authorization System
+- User registration & login  
+- JWT based authentication  
+- Role-based access control  
+- Secure password handling  
+
+---
+
+### 💳 Subscription & Payment Module
+- Plan creation & management  
+- Upgrade / downgrade flows  
+- Payment verification  
+- User subscription lifecycle  
+
+---
+
+### 📦 CRUD API
+- Complete database operations  
+- Input validation  
+- Structured controllers & routes  
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh7291&show_icons=true&theme=default)
+
+---
+
+## 🎯 What I Bring
+✔ Writing clean & readable backend code  
+✔ Strong understanding of API development  
+✔ Ability to learn quickly  
+✔ Team collaboration  
+✔ Problem-solving mindset  
+
+---
+
+## 📫 Let's Connect
+📧 rgorpalle003@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/rajeshgorpalle/
+
+---
