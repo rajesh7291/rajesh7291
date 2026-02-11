@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻  About Me
 Passionate Backend Developer with hands-on experience in building secure, scalable and production-ready APIs.  
 Worked on authentication systems, subscription workflows, and payment integrations.  
 Strong believer in clean architecture, optimized queries, and maintainable code.
